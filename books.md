@@ -14,6 +14,7 @@ Importants URLs
 ----------
 >    **Tech Blogs**
 >  -  [ **InfoWorld**](https://www.infoworld.com/)
+>  -  [ **Developer-Tech**](https://www.developer-tech.com/)
 
 
 ----------
@@ -25,6 +26,13 @@ Importants URLs
 >  
 
 ----------
+
+
+
+
+
+
+
 
 
 
