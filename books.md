@@ -14,6 +14,7 @@ Importants URLs
 ----------
 >    **Tech Blogs**
 >  -  [ **InfoWorld**](https://www.infoworld.com/)
+>  -  [ **TechWorld**](https://www.techworld.com)
 >  -  [ **Developer-Tech**](https://www.developer-tech.com/)
 
 
@@ -23,64 +24,11 @@ Importants URLs
 >    **Android Blogs**
 >  -  [ **Realm Academy**](https://academy.realm.io/section/android/)
 >  -  [ **CapTech**](https://www.captechconsulting.com/search#sort=relevancy)
+>  -  [ **RayWenderlich**](https://www.raywenderlich.com/)
+>  -  [ **CodeProject**](https://www.codeproject.com/Tags/Android)
 >  
 
 ----------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
