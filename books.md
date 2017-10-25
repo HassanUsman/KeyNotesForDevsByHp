@@ -16,6 +16,7 @@ Importants URLs
 >  -  [ **InfoWorld**](https://www.infoworld.com/)
 >  -  [ **TechWorld**](https://www.techworld.com)
 >  -  [ **Developer-Tech**](https://www.developer-tech.com/)
+>  -  [ **SpeakerDeck**](https://speakerdeck.com/)
 
 
 ----------
@@ -40,6 +41,16 @@ Importants URLs
 >  
 
 ----------
+
+
+
+
+
+
+
+
+
+
 
 
 
