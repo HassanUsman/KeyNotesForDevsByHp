@@ -28,6 +28,7 @@ Importants URLs
 >  -  [ **RayWenderlich**](https://www.raywenderlich.com/)
 >  -  [ **CodeProject**](https://www.codeproject.com/Tags/Android)
 >  -  [ **CodeFacebook**](https://code.facebook.com/android/)
+>  -  [ **MindOrks**](https://blog.mindorks.com/tagged/android)
 >  
 
 ----------
@@ -42,6 +43,17 @@ Importants URLs
 >  
 
 ----------
+
+
+
+
+
+
+
+
+
+
+
 
 
 
