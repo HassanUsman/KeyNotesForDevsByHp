@@ -37,6 +37,7 @@ Importants URLs
 
 >    **WEB Blogs**
 >  -  [ **SitePoint**](https://www.sitepoint.com/)
+>  -  [ **Quip**](https://quip.com)
 >  
 
 ----------
@@ -46,6 +47,15 @@ Importants URLs
 >  
 
 ----------
+
+
+
+
+
+
+
+
+
 
 
 
