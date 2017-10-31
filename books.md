@@ -17,6 +17,7 @@ Importants URLs
 >  -  [ **TechWorld**](https://www.techworld.com)
 >  -  [ **Developer-Tech**](https://www.developer-tech.com/)
 >  -  [ **SpeakerDeck**](https://speakerdeck.com/)
+>  -  [ **9to5mac**](https://9to5mac.com/)
 
 
 ----------
@@ -44,4 +45,10 @@ Importants URLs
 >  
 
 ----------
+
+
+
+
+
+
 
