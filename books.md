@@ -29,6 +29,7 @@ Importants URLs
 >  -  [ **CodeProject**](https://www.codeproject.com/Tags/Android)
 >  -  [ **CodeFacebook**](https://code.facebook.com/android/)
 >  -  [ **MindOrks**](https://blog.mindorks.com/tagged/android)
+>  -  [ **AndroidDesignPatterns**](http://www.androiddesignpatterns.com/)
 >  
 
 ----------
@@ -43,66 +44,4 @@ Importants URLs
 >  
 
 ----------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
