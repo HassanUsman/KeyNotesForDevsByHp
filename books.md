@@ -43,7 +43,7 @@ Importants URLs
 ----------
 >    **English Academic**
 >  -  [ **ItechMania**](http://www.itechmania.com/100-famous-urdu-proverbs-with-roman-urdu-and-english-translation/)
->  -  [ **ShortStoriesWithLyrics**](http://listentogenius.com)https://stackexchange.com/leagues/1/alltime/stackoverflow
+>  -  [ **ShortStoriesWithLyrics**](http://listentogenius.com)
 >  
 
 ----------
@@ -52,9 +52,30 @@ Importants URLs
 >    **Helpful Sites**
 >  -  [ **Stack Top Users**](https://stackexchange.com/leagues/1/alltime/stackoverflow)
 >  -  [ **Paste Of Code**](https://paste.ofcode.org/)
+>  -  [ **Gitter (search forums)**](https://gitter.im/)
 >  
 
 ----------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
