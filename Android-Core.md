@@ -2,17 +2,184 @@ Android Archietectural Things!
 ===================
 
 -------------
-DexGuard vs. ProGuard!
+**DexGuard vs. ProGuard!**
 -------------
 
-
 > - **ProGuard** is a generic optimizer for Java bytecode while **DexGuard** is a specialized tool for the protection of Android applications.
-> - **ProGuard** focuses on the bytecode while **DexGuard**processes all the components of an application.
+> - **ProGuard** focuses on the bytecode while **DexGuard** processes all the components of an application.
 > - **ProGuard** offers basic protection against static analysis while **DexGuard** protects applications against static and dynamic analysis.
 > - **ProGuard** is an open source tool while **DexGuard** is a commercial, enterprise-grade product.
+>- **ProGuard** provides minimal obfuscation while **DexGuard** applies multiple layers of encryption and obfuscation.
+>- **iXGuard** is for **iOS** working as same **DexGuard** in **Android**.
+>-  **ProGuard** provides name obfuscation: it can replace the original names of classes, methods, and fields by short, meaningless names. **DexGuard** additionally provides string encryption and class encryption.
 
 
 
+**Important Things!**
+-------------
+ -  **Stetho:** A debug bridge for Android applications
 
 ----------
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
