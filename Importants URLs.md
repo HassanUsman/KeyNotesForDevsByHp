@@ -31,6 +31,7 @@ Importants URLs
 >  -  [ **CodeFacebook**](https://code.facebook.com/android/)
 >  -  [ **MindOrks**](https://blog.mindorks.com/tagged/android)
 >  -  [ **AndroidDesignPatterns**](http://www.androiddesignpatterns.com/)
+>  -  [ **LeanPub**](https://leanpub.com/)
 >  
 
 ----------
@@ -73,7 +74,4 @@ Importants URLs
 
 ----------
 
-
-
- 
 
