@@ -67,9 +67,13 @@ Importants URLs
 [![CDNJS](https://img.shields.io/cdnjs/v/froala-design-blocks.svg)](https://cdnjs.com/libraries/froala-design-blocks)
 [![GitHub package version](https://img.shields.io/github/package-json/v/froala/design-blocks.svg)](https://github.com/froala/design-blocks)
 [![License: FOWDL v1.0](https://img.shields.io/badge/license-FOWDL-blue.svg)](https://github.com/froala/design-blocks/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/nisrulz/android-tips-tricks.svg?style=social&label=Star)](https://github.com/nisrulz/android-tips-tricks) [![GitHub forks](https://img.shields.io/github/forks/nisrulz/android-tips-tricks.svg?style=social&label=Fork)](https://github.com/nisrulz/android-tips-tricks/fork) [![GitHub watchers](https://img.shields.io/github/watchers/nisrulz/android-tips-tricks.svg?style=social&label=Watch)](https://github.com/nisrulz/android-tips-tricks) [![GitHub followers](https://img.shields.io/github/followers/nisrulz.svg?style=social&label=Follow)](https://github.com/nisrulz/android-tips-tricks)  
+[![Twitter Follow](https://img.shields.io/twitter/follow/nisrulz.svg?style=social)](https://twitter.com/nisrulz)
 
 
 ----------
 
 
+
+ 
 
