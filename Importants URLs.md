@@ -18,6 +18,7 @@ Importants URLs
 >  -  [ **Developer-Tech**](https://www.developer-tech.com/)
 >  -  [ **SpeakerDeck**](https://speakerdeck.com/)
 >  -  [ **9to5mac**](https://9to5mac.com/)
+>  -  [ **TechWibe**](https://www.techwibe.com/)
 
 
 ----------
@@ -73,5 +74,16 @@ Importants URLs
 
 
 ----------
+
+
+
+
+
+
+
+
+
+
+
 
 
