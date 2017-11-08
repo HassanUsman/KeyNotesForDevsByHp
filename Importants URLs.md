@@ -25,6 +25,7 @@ Importants URLs
 
 
 >    **Android Blogs**
+>  -  [ **Developers Blog**](https://android-developers.googleblog.com/)
 >  -  [ **Realm Academy**](https://academy.realm.io/section/android/)
 >  -  [ **CapTech**](https://www.captechconsulting.com/search#sort=relevancy)
 >  -  [ **RayWenderlich**](https://www.raywenderlich.com/)
@@ -74,6 +75,12 @@ Importants URLs
 
 
 ----------
+
+
+
+
+
+
 
 
 
