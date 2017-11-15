@@ -60,8 +60,13 @@ Importants URLs
 
 ----------
 
+>    **Learning Blogs**
+>  -  [ **East**](https://east.education/)
+>  
 
 
+
+----------
 >    **Git Hub**
 > #[Hassan Usman](https://www.learnyandroid.blogspot.com) &nbsp; [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20over%20170%20free%20design%20blocks%20based%20on%20Bootstrap%204&url=https://www.learnyandroid.blogspot.com&via=froala&hashtags=bootstrap,design,templates,blocks,developers) &nbsp;[![Slack](https://froala-design-blocks-slack.herokuapp.com/badge.svg)](https://froala-design-blocks-slack.herokuapp.com/)
 
@@ -75,6 +80,31 @@ Importants URLs
 
 
 ----------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
