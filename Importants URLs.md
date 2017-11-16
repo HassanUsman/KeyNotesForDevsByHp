@@ -34,6 +34,7 @@ Importants URLs
 >  -  [ **MindOrks**](https://blog.mindorks.com/tagged/android)
 >  -  [ **AndroidDesignPatterns**](http://www.androiddesignpatterns.com/)
 >  -  [ **LeanPub**](https://leanpub.com/)
+>  -  [ **InfoQ**](https://www.infoq.com/)
 >  
 
 ----------
@@ -80,6 +81,17 @@ Importants URLs
 
 
 ----------
+
+
+
+
+
+
+
+
+
+
+
 
 
 
