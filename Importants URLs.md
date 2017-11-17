@@ -42,7 +42,8 @@ Importants URLs
 >    **WEB Blogs**
 >  -  [ **SitePoint**](https://www.sitepoint.com/)
 >  -  [ **Quip**](https://quip.com)
->  
+>  -  [ **Free Photos**](https://www.pexels.com)
+>  -  [ **Unsplash**](https://unsplash.com/)
 
 ----------
 >    **English Academic**
@@ -57,6 +58,7 @@ Importants URLs
 >  -  [ **Stack Top Users**](https://stackexchange.com/leagues/1/alltime/stackoverflow)
 >  -  [ **Paste Of Code**](https://paste.ofcode.org/)
 >  -  [ **Gitter (search forums)**](https://gitter.im/)
+>  -  [ **CodePen**](https://codepen.io/)
 >  
 
 ----------
@@ -81,6 +83,45 @@ Importants URLs
 
 
 ----------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
