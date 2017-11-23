@@ -60,6 +60,7 @@ Importants URLs
 >  -  [ **Gitter (search forums)**](https://gitter.im/)
 >  -  [ **CodePen**](https://codepen.io/)
 >  -  [ **Behance**](www.behance.net/)
+>  -  [ **Patreon**](https://www.patreon.com/)
 >  
 
 ----------
@@ -84,6 +85,15 @@ Importants URLs
 
 
 ----------
+
+
+
+
+
+
+
+
+
 
 
 
