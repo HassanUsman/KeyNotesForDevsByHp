@@ -35,6 +35,7 @@ Importants URLs
 >  -  [ **AndroidDesignPatterns**](http://www.androiddesignpatterns.com/)
 >  -  [ **LeanPub**](https://leanpub.com/)
 >  -  [ **InfoQ**](https://www.infoq.com/)
+>  -  [ **AndroidWeekly**](http://androidweekly.net/)
 >  
 
 ----------
@@ -86,3 +87,4 @@ Importants URLs
 
 
 ----------
+
