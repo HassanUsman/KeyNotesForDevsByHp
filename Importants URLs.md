@@ -9,6 +9,7 @@ Importants URLs
 >  - [ **Kotlin-docs**](https://kotlinlang.org/docs/kotlin-docs.pdf)
 >  -  [ **React Native**](https://facebook.github.io/react-native/docs/getting-started.html)
 >  -  [ **JavaScript: The Definitive Guide**](ftp://ftp.micronet-rostov.ru/linux-support/books/programming/JavaScript/[O%60Reilly]%20-%20JavaScript.%20The%20Definitive%20Guide,%206th%20ed.%20-%20[Flanagan].pdf)
+>  -  [ **LeanPub**](https://leanpub.com/)
 
 
 ----------
@@ -34,7 +35,6 @@ Importants URLs
 >  -  [ **MindOrks**](https://blog.mindorks.com/tagged/android)
 >  -  [ **AndroidDesignPatterns**](http://www.androiddesignpatterns.com/)
 >  -  [ **GeeksForGeeks**](http://www.geeksforgeeks.org)
->  -  [ **LeanPub**](https://leanpub.com/)
 >  -  [ **InfoQ**](https://www.infoq.com/)
 >  -  [ **AndroidWeekly**](http://androidweekly.net/)
 >  -  [ **Android.Libhunt**](https://android.libhunt.com/)
@@ -89,6 +89,8 @@ Importants URLs
 
 
 ----------
+
+
 
 
 
