@@ -20,6 +20,7 @@ Importants URLs
 >  -  [ **SpeakerDeck**](https://speakerdeck.com/)
 >  -  [ **9to5mac**](https://9to5mac.com/)
 >  -  [ **TechWibe**](https://www.techwibe.com/)
+>  -  [ **BeeBom**](https://beebom.com/)
 
 
 ----------
@@ -89,6 +90,16 @@ Importants URLs
 
 
 ----------
+
+
+
+
+
+
+
+
+
+
 
 
 
