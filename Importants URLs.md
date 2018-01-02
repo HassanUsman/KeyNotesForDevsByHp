@@ -39,6 +39,7 @@ Importants URLs
 >  -  [ **InfoQ**](https://www.infoq.com/)
 >  -  [ **AndroidWeekly**](http://androidweekly.net/)
 >  -  [ **Android.Libhunt**](https://android.libhunt.com/)
+>  -  [ **TutorialsFace**](http://www.tutorialsface.com/)
 >  
 
 ----------
@@ -90,33 +91,4 @@ Importants URLs
 
 
 ----------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
