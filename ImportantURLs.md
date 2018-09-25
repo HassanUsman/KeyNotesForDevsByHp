@@ -45,6 +45,7 @@
 <li><a href="https://android.libhunt.com/"> <strong>Android.Libhunt</strong></a></li>
 <li><a href="http://www.tutorialsface.com/"> <strong>TutorialsFace</strong></a></li>
 <li><a href="https://tutorial.eyehunt.in/"> <strong>TutorialsEyeHunt</strong></a></li>
+<li><a href="https://barta.me//"> <strong>Barta</strong></a></li>
 </ul>
 </blockquote>
 <hr>
